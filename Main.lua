@@ -1,4 +1,4 @@
-local HOOK_CAPABLE = { potassium = true, volt = true, wave = true, madium = true }
+local HOOK_CAPABLE = { potassium = true, volt = true, wave = true, madium = true, synapsez = true, sirhurt = true }
 
 local function detectExecutor()
     local name = ""
