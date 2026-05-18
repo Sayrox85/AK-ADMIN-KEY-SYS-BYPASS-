@@ -1,3 +1,8 @@
+EVERYONE THIS IS CURRENTLY PATCHED AS THEY REALISED THAT THIS SHIT LOWK GOT SOME ATTENTION IM WORKING ON A NEW KEY SYSTEM BYPASS CURRENTLY JUST GIMME SOME TIME XD
+
+
+
+
 Hey there my cute little AK Admin devs and users 
 
 Im back again with a key sys bypass for this fuckass script 
@@ -14,3 +19,6 @@ discord user is sayrox_o if u wana contact me
 
 Also we got a working overhead tag spoofer for executors that support hooking 
 so u can larp as AK owner i guess 
+
+
+
