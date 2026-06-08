@@ -22,3 +22,6 @@ so u can larp as AK owner i guess
 
 
 
+# Well I have some news to share AK admin nuked our a server i was staff for and said that we copied ak admin 1:1 which is just not true 
+
+This did kinda sucked to see so I suppose its only fair to work on a new bypass 
